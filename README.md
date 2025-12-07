@@ -44,9 +44,14 @@ Quantity sold
 **Slicers** for exploring different categories and geographies
 
 📁 **Files Included**
+- **AdventureWorks_SupplyChain_KPI_Dashboard.pbix**
+- Reference PDF: Dashboard Pages
 
-**AdventureWorks_SupplyChain_KPI_Dashboard.pbix**
-Reference PDF: Dashboard Pages
+📂 **Project Repository**  
+https://github.com/shariqhassan-kh/supply-chain-kpi-dashboard
+
+🌐 **View Dashboard (GitHub Pages)**  
+https://shariqhassan-kh.github.io/supply-chain-kpi-dashboard/
 
 ⭐ **Supply Chain Insights Derived from This Dashboard**
 
