@@ -51,7 +51,7 @@ Quantity sold
 https://github.com/shariqhassan-kh/supply-chain-kpi-dashboard
 
 🌐 **View Dashboard (GitHub Pages)**  
-https://shariqhassan-kh.github.io/supply-chain-kpi-dashboard/
+https://github.com/shariqhassan-kh/supply-chain-kpi-dashboard
 
 ⭐ **Supply Chain Insights Derived from This Dashboard**
 
